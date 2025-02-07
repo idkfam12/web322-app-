@@ -1,3 +1,21 @@
+/*********************************************************************************
+
+WEB322 – Assignment 02
+I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source (including 3rd party web sites) or distributed to other students.
+
+Name: Atharva Dalwadi
+Student ID:170578231 
+Date:06-02-25
+Cyclic Web App URL: _______________________________________________________
+GitHub Repository URL: https://idkfam12.github.io/web322-app-/
+
+********************************************************************************/ 
+
+
+
+
+
+
 const express = require("express");
 const path = require("path");
 const storeService = require("./store-service");
